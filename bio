@@ -1,0 +1,13 @@
+#dictionary
+my_data = {"name":"pavi",
+           "age":22,
+           "height":5.7,
+           "weight":67,
+           "qualification":"b.tech",
+           "dept of engineering":"EEE",
+           "passed out":2023,
+           "college":"sri venkatechwaraa college of engineering and technology",
+           "hobbies":"1.learning python"
+                     " 2.Im daily spend a part of time for my fitness"
+                     " these two things make me happier"}
+print(my_data.get("dept of engineering")
